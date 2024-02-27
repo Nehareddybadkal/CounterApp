@@ -1,0 +1,23 @@
+.counter {
+  margin-left: 400px;
+  margin-top: 100px;
+}
+button {
+  width: 110px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 30px;
+  margin-left: 10px;
+  background-color: rgb(177, 217, 177);
+  color: rgb(0, 0, 0);
+  border: none;
+  cursor: pointer;
+}
+#resetBtn {
+  margin-left: 135px;
+}
+.heading {
+  font-size: 40px;
+  font-weight: 600;
+  margin-left: 120px;
+}
